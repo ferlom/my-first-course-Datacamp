@@ -1,5 +1,5 @@
 ---
-title       : Modulo 2. Introduccion alLenguaje R
+title       : Modulo 2. Introduccion al Lenguaje R
 description : Este es un capitulo introductorio para dejar claras las bases del lenguaje R.
 
 --- type:NormalExercise lang:r xp:100 skills:1 key:88e5a6a670
